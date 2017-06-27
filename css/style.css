@@ -1,0 +1,78 @@
+.beginButton{
+	width: 200px;
+	background: green;
+	line-height: 50px;
+	text-align: center;
+	font-weight: bold;
+	color: red;
+	border-radius: 5px; 
+	cursor: pointer;
+	display: block;	
+}
+
+.beginButton:hover {
+	background:black;
+	color: yellow;
+}
+
+
+.instructionsButton{
+	width: 200px;
+	background: green;
+	line-height: 50px;
+	text-align: center;
+	font-weight: bold;
+	color: red;
+	border-radius: 5px; 
+	cursor: pointer;
+	display: block;	
+}
+
+.instructionsButton:hover {
+	background:black;
+	color: yellow;
+}
+
+.beginButton2{
+	width: 200px;
+	background: green;
+	line-height: 50px;
+	text-align: center;
+	font-weight: bold;
+	color: red;
+	border-radius: 5px; 
+	cursor: pointer;
+	display: block;	
+}
+
+.beginButton2:hover {
+	background:black;
+	color: yellow;
+}
+
+.container{
+	background-color: red;
+	width:660px;
+	margin: auto;
+ }
+.card{
+	display: inline-block;
+	float: right;
+    margin: 10px;
+    height: 150px;
+    width:200px;
+    background: blue;
+    text-align: center;
+}
+.card p{
+	font-size: 40px;
+	color: orange;
+}
+
+
+
+
+
+
+
+
