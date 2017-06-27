@@ -72,15 +72,20 @@
 	color: orange;
 }
 body{
-	border: solid;
+	border: solid pink 5px;
+	border-radius: 20px;
     height: 681px;
     width: 707px;
     margin: 334px;
-    margin-top: 103px;
+    margin-top: 34px;
+    background: white;
 }
 
 .doraTheExplorerindex{
 	margin-left: 52px;
 	margin-top: 172px;
+}
+html{
+	background-image: url(http://cdn.wallpapersafari.com/53/19/Dg4HEs.jpg);
 }
 
