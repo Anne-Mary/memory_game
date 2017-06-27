@@ -8,6 +8,8 @@
 	border-radius: 5px; 
 	cursor: pointer;
 	display: block;	
+	margin-left:405px;
+	margin-top:-135px;
 }
 
 .beginButton:hover {
@@ -26,6 +28,7 @@
 	border-radius: 5px; 
 	cursor: pointer;
 	display: block;	
+	margin-left: 405px;
 }
 
 .instructionsButton:hover {
@@ -68,11 +71,16 @@
 	font-size: 40px;
 	color: orange;
 }
+body{
+	border: solid;
+    height: 681px;
+    width: 707px;
+    margin: 334px;
+    margin-top: 103px;
+}
 
-
-
-
-
-
-
+.doraTheExplorerindex{
+	margin-left: 52px;
+	margin-top: 172px;
+}
 
