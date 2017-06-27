@@ -1,14 +1,15 @@
 .beginButton{
-	width: 200px;
-	background: green;
-	line-height: 50px;
+	width: 281px;
+	background: lightblue;
+	line-height: 47px;
 	text-align: center;
 	font-weight: bold;
-	color: red;
+	font-size: 30px;
+	color: deeppink;
 	border-radius: 5px; 
 	cursor: pointer;
 	display: block;	
-	margin-left:405px;
+	margin-left:364px;
 	margin-top:-135px;
 }
 
@@ -19,16 +20,17 @@
 
 
 .instructionsButton{
-	width: 200px;
-	background: green;
-	line-height: 50px;
+	width: 282px;
+	background: lightblue;
+	line-height: 45px;
 	text-align: center;
 	font-weight: bold;
-	color: red;
+	font-size: 30px;
+	color: deeppink;
 	border-radius: 5px; 
 	cursor: pointer;
 	display: block;	
-	margin-left: 405px;
+	margin-left: 364px;
 }
 
 .instructionsButton:hover {
@@ -37,15 +39,17 @@
 }
 
 .beginButton2{
-	width: 200px;
-	background: green;
-	line-height: 50px;
+	width: 279px;
+	background: blue;
+	line-height: 43px;
 	text-align: center;
 	font-weight: bold;
 	color: red;
 	border-radius: 5px; 
 	cursor: pointer;
 	display: block;	
+	margin-left:366px;
+	margin-top: -135px;
 }
 
 .beginButton2:hover {
@@ -64,12 +68,13 @@
     margin: 10px;
     height: 150px;
     width:200px;
-    background: blue;
+    background: orange;
     text-align: center;
+    border-radius: 5px; 
 }
 .card p{
 	font-size: 40px;
-	color: orange;
+	color: white;
 }
 body{
 	border: solid pink 5px;
