@@ -1,16 +1,16 @@
 .beginButton{
 	width: 281px;
-	background: lightblue;
-	line-height: 47px;
-	text-align: center;
-	font-weight: bold;
-	font-size: 30px;
-	color: deeppink;
-	border-radius: 5px; 
-	cursor: pointer;
-	display: block;	
-	margin-left:364px;
-	margin-top:-135px;
+    background: lightblue;
+    line-height: 47px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: deeppink;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-left: 364px;
+    margin-top: -135px;
 }
 
 .beginButton:hover {
@@ -20,18 +20,19 @@
 
 
 .instructionsButton{
-	width: 282px;
-	background: lightblue;
-	line-height: 45px;
-	text-align: center;
-	font-weight: bold;
-	font-size: 30px;
-	color: deeppink;
-	border-radius: 5px; 
-	cursor: pointer;
-	display: block;	
-	margin-left: 364px;
+    width: 282px;
+    background: lightblue;
+    line-height: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: deeppink;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-left: 364px;
 }
+
 
 .instructionsButton:hover {
 	background:black;
@@ -50,6 +51,9 @@
 	display: block;	
 	margin-left:366px;
 	margin-top: -135px;
+}
+.greeting{
+	margin-bottom: 191px;
 }
 
 .beginButton2:hover {
@@ -118,8 +122,9 @@ body{
 }
 
 .doraTheExplorerindex{
-	margin-left: 52px;
-	margin-top: 172px;
+	margin-left: 13px;
+	margin-top: 235px;
+	height: 286px;
 }
 html{
 	background-image: url(http://cdn.wallpapersafari.com/53/19/Dg4HEs.jpg);
