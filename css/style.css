@@ -66,13 +66,22 @@
 .game-over{
     border: solid pink 5px;
 	border-radius: 20px;
-	background-color: red;
+	background-color: white;
 	margin: -5px;
 	z-index: -1;
 	position:absolute;
 	height: 681px;
     width: 678px;
     
+}
+.youWon{
+	margin-left: 316px;
+    margin-top: 13px;
+    display: inline-block;
+}
+.doraTheExplorerWin{
+	margin-left: 50px;
+    height: 419px;
 }
 .game-container{
     margin-left: 19px;
@@ -92,9 +101,10 @@
     background: orange;
     text-align: center;
     border-radius: 5px; 
+    box-shadow: 3px 5px 3px #FF5722;
 }
 .card p{
-	font-size: 40px;
+	font-size: 45px;
 	color: white;
 }
 body{
