@@ -124,7 +124,7 @@ body{
     margin-top: 34px;
     background: white;
 }
-.instructionsSpeechbubble{
+.instructionsSpeechBubble{
 	margin-bottom: 330px;
 }
 .doraTheExplorerPlay{
@@ -148,7 +148,6 @@ div ul{
     font-size: 147%;
 
 }
-
 
 html{
 	background-image: url(http://cdn.wallpapersafari.com/53/19/Dg4HEs.jpg);
