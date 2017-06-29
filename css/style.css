@@ -9,8 +9,8 @@
     border-radius: 5px;
     cursor: pointer;
     display: block;
-    margin-left: 364px;
-    margin-top: -135px;
+    margin-left: 377px;
+    margin-top: -191px;
 }
 
 .beginButton:hover {
@@ -30,7 +30,7 @@
     border-radius: 5px;
     cursor: pointer;
     display: block;
-    margin-left: 364px;
+    margin-left: 377px;
 }
 
 
@@ -39,7 +39,7 @@
 	color: yellow;
 }
 
-/*.beginButton2{
+.beginButton2{
 	width: 281px;
     background: lightblue;
     line-height: 47px;
@@ -50,17 +50,17 @@
     border-radius: 5px;
     cursor: pointer;
     display: block;
-    margin-left: 366px;
-    margin-top: 10px;
+    margin-top: 22px;
+    margin-left: 20px;
 }
 .beginButton2:hover {
 	background:black;
 	color: yellow;
-}*/
-
 }
+
+
 .greeting{
-	margin-bottom: 191px;
+    margin-bottom: 200px;
 }
 
 
@@ -134,14 +134,16 @@ body{
 }
 .doraTheExplorerindex{
 	margin-left: 13px;
-	margin-top: 235px;
-	height: 286px;
+    margin-top: 235px;
+    height: 286px;
 }
 
 div ul{
-	margin-left: 352px;
-    margin-top: -253px;
+	margin-left: 372px;
+    margin-top: -297px;
     width: 200px;
+    font-family: 'Slabo 27px', serif;
+    font-size: 147%;
 }
 
 
