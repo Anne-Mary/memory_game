@@ -39,27 +39,30 @@
 	color: yellow;
 }
 
-.beginButton2{
-	width: 279px;
-	background: blue;
-	line-height: 43px;
-	text-align: center;
-	font-weight: bold;
-	color: red;
-	border-radius: 5px; 
-	cursor: pointer;
-	display: block;	
-	margin-left:366px;
-	margin-top: -135px;
+/*.beginButton2{
+	width: 281px;
+    background: lightblue;
+    line-height: 47px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: deeppink;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-left: 366px;
+    margin-top: 10px;
+}
+.beginButton2:hover {
+	background:black;
+	color: yellow;
+}*/
+
 }
 .greeting{
 	margin-bottom: 191px;
 }
 
-.beginButton2:hover {
-	background:black;
-	color: yellow;
-}
 
 .container{
 	width:660px;
@@ -107,6 +110,7 @@
     border-radius: 5px; 
     box-shadow: 3px 5px 3px #FF5722;
 }
+
 .card p{
 	font-size: 45px;
 	color: white;
@@ -120,14 +124,30 @@ body{
     margin-top: 34px;
     background: white;
 }
-
+.instructionsSpeechbubble{
+	margin-bottom: 330px;
+}
+.doraTheExplorerPlay{
+	height: 400px;
+    margin-top: 100px;
+    margin-left: 44px;
+}
 .doraTheExplorerindex{
 	margin-left: 13px;
 	margin-top: 235px;
 	height: 286px;
 }
+
+div ul{
+	margin-left: 352px;
+    margin-top: -253px;
+    width: 200px;
+}
+
+
 html{
 	background-image: url(http://cdn.wallpapersafari.com/53/19/Dg4HEs.jpg);
 }
+
 
 
