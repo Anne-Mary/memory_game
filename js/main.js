@@ -64,7 +64,9 @@
              // $('.container').html('<h1>You Won!</h1>');
 
              $('.game-over').css('z-index',0);
-          }
+
+            }
+          
         }
   	};
   	app.init();
